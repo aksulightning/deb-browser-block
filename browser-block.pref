@@ -1,3 +1,7 @@
+Package: firefox
+Pin: origin *
+Pin-Priority: -1
+
 Package: firefox-esr
 Pin: origin *
 Pin-Priority: -1
